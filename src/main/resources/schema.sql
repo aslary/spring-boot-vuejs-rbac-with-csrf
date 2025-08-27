@@ -1,0 +1,3 @@
+CREATE TABLE foos (
+  id BIGINT PRIMARY KEY
+);

@@ -1,0 +1,13 @@
+logging:
+  level:
+    org:
+      springframework:
+        security: debug
+spring:
+  application:
+    name: classroom
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: jdbc:h2:mem:classroom

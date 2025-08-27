@@ -1,0 +1,9 @@
+tabWidth: 2
+semi: false
+singleQuote: true
+printWidth: 120
+trailingComma: none
+xmlWhitespaceSensitivity: ignore
+plugins:
+  - '@prettier/plugin-xml'
+  - prettier-plugin-java
